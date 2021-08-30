@@ -1,0 +1,9 @@
+Lector de texto
+Es una herramienta de texto a voz, también conocida como lector de texto, o software convertidor de texto a voz, 
+es una tecnología que lee en voz alta textos digitales.
+Estas herramientas no requieren ningún esfuerzo por parte del usuario, más que copiar 
+y pegar el texto que quieren que se lea. 
+Luego, a través de un algoritmo inteligente, el lector de texto a voz hace disponible una versión de audio de ese texto.
+Si bien cada herramienta de conversión de texto a voz funciona de manera diferente, 
+las tecnologías más avanzadas admiten una amplia variedad de idiomas y ofrecen muchas voces que suenan naturales, 
+masculinas y femeninas.
